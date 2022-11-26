@@ -1,0 +1,10 @@
+palindrome
+
+deklarasi:
+var string = "race, car"
+
+algoritma:
+string.split.reverse.filter.join
+
+
+
